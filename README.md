@@ -1,4 +1,4 @@
-# CS303-Assignment1
+# CS303-Assignment1-Caden Cunningham
 Contains my Assignment 1 code with 3 files - main.cpp, Functions.cpp. and Functions.h
 
 // Brief description of my code //
